@@ -19,7 +19,7 @@ Since this extension is not published on the Firefox Add-ons Marketplace, you'll
 
 # How to Use
 
-# After installing the extension, you'll see a new icon (represented by icon.png) in your Firefox toolbar.
+# After installing the extension, you'll see a new icon in your Firefox toolbar.
 
     To switch your user agent to Chrome's, click the icon and press the "Turn On" button.
     To switch your user agent back to Firefox's default, click the icon and press the "Turn Off" button.
