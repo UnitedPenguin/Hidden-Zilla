@@ -30,7 +30,7 @@ Contributing
 # Contributing
 
 We welcome contributions! Please feel free to submit a pull request for any bugs, improvements, or new features you think would improve the extension.
-Disclaimer
+
 
 # License
 
